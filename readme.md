@@ -23,8 +23,8 @@ To run this game, you'll need to have Python and the Pygame library installed on
 1. **Clone the repository** (or download the code):
 
 ```bash
-git clone https://github.com/your-username/pygame-tetris.git
-cd pygame-tetris
+git clone [https://github.com/CodeScheming/Tetris-game.git]
+cd Tetris game
 ```
 
 Alternatively, you can just save the Python code into a file named `tetris.py`.
